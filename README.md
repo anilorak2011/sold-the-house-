@@ -1,9 +1,9 @@
 # sold-the-house
 <html>
-    <title>Продаж будинку!</title>
+    <tittle>Продаж будинку!</tittle>
     <header>
    <p style="background-color:black;text-align:center;font-size:50px;color:white;font-style:italic;"> Продаємо будинок!</p> 
-   <img src="https://i.ytimg.com/vi/Bm5pNG0mChU/hqdefault.jpg "height="230px"/>
+   <img src="https://i.ytimg.com/vi/Bm5pNG0mChU/hqdefault.jpg"  height="230px"/>
     </header>
       <main style="background-color:#48D1CC;font-size:30px;">
           <h1>Інформація</h1>
